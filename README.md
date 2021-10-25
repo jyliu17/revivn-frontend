@@ -10,7 +10,7 @@ Instructions:
 
 1. First clone down this repositiory to your local desktop and open it with your code editor of choice (i.e. VS Code).
 
-2. When you are in this repository, if you need to update your node package, you can run "npm install -g npm@latest" , otherwise just run "npm install && npm start.
+2. When you are in this repository, if you need to update your node package, you can run "npm install -g npm@latest" , otherwise just run "npm install && npm start".
 
 3. Once it is up and running, you be able to access the server on http://localhost:4000 using your web browser.  
 
